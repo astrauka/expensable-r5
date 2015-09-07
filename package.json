@@ -45,6 +45,12 @@
     "webpack-hot-middleware": "^2.0.0"
   },
   "dependencies": {
-    "react": "^0.13.0"
+    "react": "^0.13.0",
+    "react-router": "^1.0.0-beta4",
+    "redux": "^2.0.0",
+    "react-redux": "^2.1.0",
+    "redux-react-router": "^0.4.0",
+    "redux-logger": "0.0.1",
+    "redux-thunk": "^0.1.0"
   }
 }
